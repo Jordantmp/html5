@@ -3,14 +3,14 @@
 h1 {
   font-size: 3rem;
   text-align: center;
-  font-family: fantasy;
+  font-family: 'Ubuntu', sans-serif;;
 }
 
 header {
 
 }
 
-body {
+body {font-family: 'Ubuntu', sans-serif;
 
 }
 
