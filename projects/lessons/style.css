@@ -3,7 +3,8 @@
 h1 {
   font-size: 3rem;
   text-align: center;
-  font-family: 'Ubuntu', sans-serif;;
+  font-family: 'Ubuntu', sans-serif;
+  color: #6b7a8f;
 }
 
 header {
@@ -11,6 +12,7 @@ header {
 }
 
 body {font-family: 'Ubuntu', sans-serif;
+color: #6b7a8f;
 
 }
 
@@ -18,4 +20,5 @@ a{
   font-family: 'Ubuntu', sans-serif;
   font-size: 1.8rem;
   font-weight: 900;
+  color: #f7882f;
 }
