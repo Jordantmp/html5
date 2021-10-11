@@ -4,6 +4,8 @@
 
     <title>Navigation</title>
 
+    <link href="./style.css" type="text/css" rel="stylesheet"/)
+
   </head>
 
 <h1>My Travels</h1>
@@ -39,7 +41,7 @@ Ea eos officiis deterruisset. Vero incorrupte ius ei, te has fastidii salutandi,
 
 <div id="destinations">
 
-   <h3>Michigan<span style ="color: #203355">(This is where I live now.)</span></h3>
+   <h3>Michigan</h3>
 
    <h3>Ohio</h3>
 
@@ -82,7 +84,6 @@ Ea eos officiis deterruisset. Vero incorrupte ius ei, te has fastidii salutandi,
 </div>
 
 <div is = "gallery"></div>
-
 
 
 

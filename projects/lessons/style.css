@@ -1,1 +1,21 @@
 * {background-color: d2ca9f;}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: fantasy;
+}
+
+header {
+
+}
+
+body {
+
+}
+
+a{
+  font-family: sans-serif;
+  font-size: 1.8rem;
+  font-weight: 900;
+}
