@@ -23,10 +23,7 @@ a {
 background-color: #3a4660;
 color: #c9af98;
 text-decoration: none;
-padding-bottom: 15px;
-padding-top: 15px;
-padding-right: 20px;
-padding-left: 20px;
+padding: 15px 20px 15px 20px;
 }
 
 nav {
