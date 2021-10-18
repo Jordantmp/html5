@@ -14,6 +14,11 @@ color: #845007;
 }
 
 h3 {
+
+element.style {
+  padding-bottom: 20px;
+}
+
 font-size: 1.5rem;
 color: #3a4660;
 }
@@ -23,4 +28,12 @@ background-color: #3a4660;
 color: #c9af98;
 text-decoration: none;
 padding: 20px;
-} 
+}
+
+element.style {
+    padding-top: 0px;
+    margin-top: 40px;
+}
+* {
+    background-color: #ed8b64;
+}
